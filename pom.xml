@@ -78,6 +78,7 @@
                 <phase>package</phase>
                 <goals><goal>copy</goal></goals>
                 <configuration>
+                  <outputDirectory>dependency</outputDirectory>
                   <artifactItems>
                     <artifactItem>
                       <groupId>com.heroku</groupId>
