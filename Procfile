@@ -1,1 +1,1 @@
-web java $JAVA_OPTS -jar webapp-runner.jar $WEBAPP_RUNNER_OPTS --port $PORT target/hello.war
+web: java -jar target/*.jar
