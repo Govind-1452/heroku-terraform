@@ -79,7 +79,7 @@
           <artifactId>heroku-maven-plugin</artifactId>
           <version>3.0.3</version>
           <configuration>
-            <appName>floating-fjord-91837</appName>
+            <appName>damp-beyond-03003</appName>
           </configuration>
         </plugin>
       </plugins>
