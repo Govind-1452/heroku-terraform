@@ -21,6 +21,22 @@
       <version>4.0.1</version>
       <scope>provided</scope>
     </dependency>
+    <dependency>
+      <groupId>com.deliveredtechnologies</groupId>
+      <artifactId>tf-maven-plugin</artifactId>
+      <version>0.12</version>
+      <type>maven-plugin</type>
+    </dependency>
+    <dependency>
+      <groupId>com.deliveredtechnologies</groupId>
+      <artifactId>tf-cmd-api</artifactId>
+      <version>0.12</version>
+    </dependency>
+    <dependency>
+      <groupId>com.deliveredtechnologies</groupId>
+      <artifactId>tf-s3-archetype</artifactId>
+      <version>0.12</version>
+    </dependency>
   </dependencies>
   <build>
     <finalName>webappRunnerSample</finalName>
