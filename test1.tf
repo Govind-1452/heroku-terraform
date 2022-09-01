@@ -1,6 +1,6 @@
 provider "heroku" {
   email   = "gchoudhary@salesforce.com"
-  api_key = "41bcfac2-79cb-4cac-b326-e5835cc1ddfd"
+  api_key = "token"
 }
 resource "heroku_app" "this" {
   name = "my-cal-heroku11"
